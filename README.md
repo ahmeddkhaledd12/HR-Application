@@ -73,11 +73,11 @@ Home Page:
 Employees Form:
 ![Employees Form](./screenshots/EmployeeForm.png)
 
-All Employees Page:
-![All Employees](./screenshots/AllEmployees.png)
-
 Employee Saved:
 ![Employee saved](./screenshots/employeesaved.png)
+
+All Employees Page:
+![All Employees](./screenshots/AllEmployees.png)
 
 --------
 
