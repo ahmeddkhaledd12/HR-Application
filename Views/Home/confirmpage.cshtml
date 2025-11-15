@@ -1,0 +1,8 @@
+﻿@model HrApplication.Models.employeescshtml
+<div class="container mt-5 text-center">
+    <div class="alert alert-success">
+        <h2>Employee @Model.name saved successfully!</h2>
+    </div>
+    <a asp-action="employees" class="btn btn-primary m-2">Add Another Employee</a>
+    <a asp-action="allemployees" class="btn btn-secondary m-2">View All Employees</a>
+</div>
